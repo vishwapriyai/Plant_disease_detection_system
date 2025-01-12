@@ -1,0 +1,4 @@
+streamlit==1.15.0
+torch==2.0.0  # Updated to a newer version of torch
+torchvision==0.15.0  # Ensure compatibility with the updated torch version
+pillow==8.4.0
