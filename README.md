@@ -1,6 +1,6 @@
 # Plant Disease Detection System
 
-![Screenshot 2025-01-07 124828.png]()
+![Screenshot of the Application](Screenshot%202025-01-07%20124828.png)
 
 
 ## Overview
