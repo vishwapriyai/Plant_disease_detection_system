@@ -1,5 +1,8 @@
 # Plant Disease Detection System
 
+![Uploading image.png…]()
+
+
 ## Overview
 This project implements a plant disease detection system using deep learning techniques. The model is trained to classify images of plant leaves into various disease categories. The application allows users to upload images and receive predictions on whether the plant is healthy or affected by a specific disease.
 
